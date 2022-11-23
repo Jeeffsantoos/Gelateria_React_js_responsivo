@@ -23,7 +23,7 @@ export default function Rodape() {
         </div>
       </div>
       <div className='textos desenvolvido-por'>
-        <p>Gelateria. Orgulhosamente desenvolvido por Jefferson Lima"</p>
+        <p>Gelateria. Orgulhosamente desenvolvido por "Jefferson Lima"</p>
       </div>
     </footer>
   );
